@@ -10,7 +10,7 @@ My current work explores persistent AI systems, memory and retrieval, event-driv
 
 ## Featured Projects
 
-### 🏠 Home — Persistent Multi-Agent AI Workspace
+### 🏠 [Home — Persistent Multi-Agent AI Workspace](https://github.com/echowang519/home-ai-workspace)
 A persistent AI workspace designed around stable identity, memory, permissions, shared/private state and multiple AI runtimes.
 
 **Focus:** AI architecture · LLM integration · memory systems · runtime design · reliability
