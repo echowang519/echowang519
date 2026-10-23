@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Echo 👋
 
-<!--
-**echowang519/echowang519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Solutions | AI Implementation | Product Delivery**
 
-Here are some ideas to get you started:
+I'm transitioning into applied AI after working across project delivery, construction, retail operations and B2B client management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on turning real problems into practical AI systems — from problem framing and architecture decisions through integration, testing and acceptance.
+
+My current work explores persistent AI systems, memory and retrieval, event-driven integrations, and AI-assisted business workflows.
+
+## Featured Projects
+
+### 🏠 Home — Persistent Multi-Agent AI Workspace
+A persistent AI workspace designed around stable identity, memory, permissions, shared/private state and multiple AI runtimes.
+
+**Focus:** AI architecture · LLM integration · memory systems · runtime design · reliability
+
+### 🛒 AI-Assisted Retail Marketing Pilot
+A real-world retail marketing project exploring how generative AI and programmatic video can reduce repetitive promotional-content production.
+
+**Focus:** requirements discovery · generative AI · React · Remotion · workflow automation · commercial AI delivery
+
+### 🧠 Unified AI Memory & Archive
+A provenance-aware memory and retrieval architecture separating immutable source evidence from derived summaries, approved memory and runtime context.
+
+**Focus:** retrieval · SQLite/FTS · provenance · permissions · human-in-the-loop · AI governance
+
+### ⚡ Wake MCP Bridge
+An event-driven integration prototype connecting external events with a live AI conversation through persistence, MCP and runtime listeners.
+
+**Focus:** MCP · APIs · event-driven architecture · persistence · routing · debugging
+
+## What I Work With
+
+`Python` · `SQL` · `REST APIs` · `JSON` · `MCP` · `SQLite / FTS` · `Git` · `LLM APIs` · `React / TypeScript` · `Remotion`
+
+## How I Work
+
+I drive **problem framing, architecture decisions, constraints, testing and acceptance**, while using AI extensively as an implementation partner.
+
+I'm particularly interested in roles across:
+
+**AI Solutions · AI Implementation · AI Product Delivery · Applied AI**
+
+📍 Brisbane, Australia
