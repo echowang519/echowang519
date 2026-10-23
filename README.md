@@ -15,7 +15,7 @@ A persistent AI workspace designed around stable identity, memory, permissions, 
 
 **Focus:** AI architecture · LLM integration · memory systems · runtime design · reliability
 
-### 🛒 AI-Assisted Retail Marketing Pilot
+### 🛒 [AI-Assisted Retail Marketing Pilot](https://github.com/echowang519/ai-retail-marketing-pilot)
 A real-world retail marketing project exploring how generative AI and programmatic video can reduce repetitive promotional-content production.
 
 **Focus:** requirements discovery · generative AI · React · Remotion · workflow automation · commercial AI delivery
