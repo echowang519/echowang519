@@ -34,12 +34,12 @@ A real-world retail pilot exploring how generative AI and programmatic video can
 
 ## Additional Systems Work
 
-### 🧠 Unified AI Memory & Archive
+### 🧠 [Unified AI Memory & Archive](https://github.com/echowang519/unified-ai-memory-archive)
 A provenance-aware memory and retrieval architecture separating immutable source evidence from derived summaries, approved memory and runtime context.
 
 **Focus:** retrieval · SQLite / FTS · provenance · actor-scoped permissions · human-in-the-loop · AI governance
 
-### ⚡ Wake MCP Bridge
+### ⚡ [Wake MCP Bridge](https://github.com/echowang519/wake-mcp-bridge)
 An event-driven integration prototype connecting external events with a live AI conversation through persistence, MCP and runtime listeners.
 
 **Focus:** MCP · APIs · event-driven architecture · persistence · routing · debugging
